@@ -34,6 +34,9 @@ public class Ejemplo01 {
                      // 9 + notas[0][1] // 9 + 10 // 19
                      // 19 + notas[0][2] // 19 + 7 // 26
                      // 26 + notas[0][3] // 26 + 8 // 34
+                     
+                     
+                     
             }
             sumaNotas[i] = suma; // 
         }
